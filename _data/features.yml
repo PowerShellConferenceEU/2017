@@ -1,0 +1,18 @@
+# Turn on or off site features
+includeExtraInfoBox: true
+includeCountdown: false
+includeEventStats: false
+includeAbout: true
+includeEveningEvent: true
+includeCallforSpeakers: false
+includeDelegateInfo: false
+includeSpeakers: true
+includeSchedule : true
+includeRegister: false
+includeVenue: true
+includeLegal: true
+includeMap: true
+includeCandids: false
+includeSponsors: true
+includeContact: true
+includeFooter: true
